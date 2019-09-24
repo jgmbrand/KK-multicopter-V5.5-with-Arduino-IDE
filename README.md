@@ -3,8 +3,8 @@
 Found an OLD (crashed) KK Multicopter board and decided to have some fun with the onboard gyro's 
 
 Modified the hardware by adding a Serial interface (FTDI) to enable communication with the Arduino IDE. 
-![KK Multicopter board]
-(https://github.com/jgmbrand/KK-multicopter-V5.5-with-Arduinob/master/ESP_AI_Thinker_Web_Command_table/Doc/AI_Thinker_Development_board.jpg) 
+
+![](hardware/kk_arduino.jpg)  
 
 
 # ESP8266  
