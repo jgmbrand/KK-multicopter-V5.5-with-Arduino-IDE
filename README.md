@@ -3,7 +3,9 @@
 Found an OLD (crashed) KK Multicopter board and decided to have some fun with the onboard gyro's 
 
 Modified the hardware by adding a Serial interface (FTDI) to enable communication with the Arduino IDE. 
+# KK Multicopter board without modifications
 
+# KK Multicopter board with modifications
 ![KK Modifications](Hardware/KK_arduino.jpg)  
 
 
