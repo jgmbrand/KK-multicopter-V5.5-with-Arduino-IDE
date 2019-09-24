@@ -4,7 +4,7 @@ Found an OLD (crashed) KK Multicopter board and decided to have some fun with th
 
 Modified the hardware by adding a Serial interface (FTDI) to enable communication with the Arduino IDE. 
 
-![](hardware/kk_arduino.jpg)  
+![KK Modifications](Hardware/KK_arduino.jpg)  
 
 
 # ESP8266  
