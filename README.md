@@ -14,5 +14,6 @@ Modified the hardware by adding a Serial interface (FTDI) to enable communicatio
 
 **KK Multicopter board with modifications**
 ![KK Modifications](https://github.com/jgmbrand/KK-multicopter-V5.5-with-Arduino-IDE/blob/master/Hardware/KK_arduino.jpg)  
-
+  
+Power Ground and the TX can simply be taken from the receiver **roll** connector.For the RX a thin wire must be soldered to the free 
 
