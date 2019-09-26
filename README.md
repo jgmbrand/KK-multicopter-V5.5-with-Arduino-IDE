@@ -1,6 +1,8 @@
 # KK-multicopter-V5.5-with-Arduino-IDE
 
-Found an OLD (crashed) KK Multicopter board and decided to have some fun with the onboard gyro's. 
+Found an OLD (crashed) KK Multicopter board and decided to have some fun with the onboard gyros and potentiometers. 
+The board has an ATmega168PA that uses the internal 8MHz osc. 
+
 
 **KK Multicopter Blackboard V5.5**
 ![](https://github.com/jgmbrand/KK-multicopter-V5.5-with-Arduino-IDE/blob/master/Hardware/KK-Mulicopter1.jpg?raw=true)
