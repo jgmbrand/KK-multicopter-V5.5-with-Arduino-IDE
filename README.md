@@ -22,10 +22,10 @@ For the KK-RX(FTDI-TX) signal a thin wire must be soldered to the (free)pin 30 o
 The FTDI-DTR(KK-RESET) signal must be connected to C10.   
 Therefore C10 must be disconnected from Ground by lifting it up, away from the Ground pad and then soldering a thin wire to the open "pin". 
   
-**Bootloader programming**
+**Bootloader programming**  
 tbd.
 
-**Demo program**
+**Demo program**  
 tbd.
    
  
