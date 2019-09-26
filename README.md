@@ -15,10 +15,14 @@ Modified the hardware by adding a Serial interface (FTDI) to enable communicatio
 **KK Multicopter board with modifications**
 ![KK Modifications](https://github.com/jgmbrand/KK-multicopter-V5.5-with-Arduino-IDE/blob/master/Hardware/KK_arduino.jpg)  
   
+**FTDI Connections**    
+
 Power,Ground and the RS232-TX signal can simply be taken from the receiver **RX Roll** connector.  
 For the RS232-RX signal a thin wire must be soldered to the (free)pin 30 of the ATmega chip.  
 The FTDI-RESET signal must be connected to C10.   
 Therefore C10 must be disconnected from Ground by lifting it up, away from the Ground pad and soldering a thin wire to the open "pin".  
+   
+ 
 
 
 
